@@ -1,1 +1,1 @@
-APItoken = '7242307053:AAEv6y5-0nbSXmtdwA4ijycH9JvJDDAXDFc'
+APItoken = 'TOKEN'
